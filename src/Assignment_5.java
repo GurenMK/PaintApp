@@ -8,8 +8,6 @@
 //Canvas clears out when resize by the user
 //ResizeCanvas redraws the canvas whenever the size is changed
 
-package assignment_5;
-
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
