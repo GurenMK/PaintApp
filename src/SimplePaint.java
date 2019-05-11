@@ -21,7 +21,7 @@ import javafx.scene.layout.HBox;
 import javafx.geometry.Pos;
 import javafx.scene.layout.Priority;
 
-public class Assignment_5 extends Application {
+public class SimplePaint extends Application {
   //count for the width button clicked
     int count1 = 0;
   //count for the color button clicked
